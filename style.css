@@ -1,0 +1,28 @@
+body {
+    background-color: #f3f3f3;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    padding: 50px 0;
+}
+
+.custom-blue {
+    color: #1200ff
+}
+
+.custom-pink {
+    background-color: #ff00e9;
+}
+
+.card,
+.card-img-top {
+    border-radius: 0;
+}
+
+.card-image-small {
+    width: 120px;
+    height: 80px;
+}
+
+.event-date {
+    position: absolute;
+    top: -30px;
+}
